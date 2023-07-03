@@ -20,3 +20,15 @@ The whole case study dataset contains total 4 datasets. And the basic data descr
     2. The dataset have shows ranking per week, alongside its total life time watching hour. 
 
     3. Shows Category - `TV (English)`, `TV (Non-English)`, `Films (English)`, `Films (Non-English)`
+
+
+
+### 3. Most Popular Data : 
+
+    1. The dataset is all about popularuty of the shows, it contains the total watch time for first 28 days of every shows.
+
+    2. It also have information of the ranking of the data, alongside Title 
+
+    3. Shows Cateory - `TV (English)`, `TV (Non-English)`, `Films (English)`, `Films (Non-English)`
+
+    
