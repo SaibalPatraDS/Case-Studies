@@ -31,4 +31,12 @@ The whole case study dataset contains total 4 datasets. And the basic data descr
 
     3. Shows Cateory - `TV (English)`, `TV (Non-English)`, `Films (English)`, `Films (Non-English)`
 
-    
+
+
+### 4. Shows Data : 
+
+    1. This dataset have the information of release year of every shows alongside it's title.
+
+    2.  This dataset have rating of these shows accross different platforms, like `Netflix`, `Rotten Tomatoes`, `Hulu`, `IMDb`, `Prime Video`, `Disney+`
+
+    3. With these, the dataset have the info about the `Age` criteria best for watching the shows.
