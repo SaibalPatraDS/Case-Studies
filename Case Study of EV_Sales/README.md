@@ -1,4 +1,4 @@
-## EV_SALES
+# EV_SALES
 
 Zoom Electric (ZE) is an electric vehicle venture owned by a renowned automotive manufacturer called ZOOM MOTORS India Private Limited.
 
@@ -21,3 +21,9 @@ Sales volume refers here to the number of units of scooters that the company sel
 ### Key expectations from you
 
 The sales & Operations-Head wants to understand the sales volume growth over the first two-three weeks. As one of the best data analysts of Zoom Electric, you've been assigned to analyze the reasons for dropping the sales volume of sprint scooters.
+
+
+## Dataset for Experience
+With the intention of comprehending the decline in sales volume of Sprint Scooters, an analysis is carried out by downloading the work files and data dictionary provided via the links below,
+
+These work files will serve as valuable references to explore the various tables and data fields, facilitating further investigation.
