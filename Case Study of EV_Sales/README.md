@@ -32,11 +32,11 @@ With the intention of comprehending the decline in sales volume of Sprint Scoote
 Now that you have a clear understanding of the data set, it's time to select the tool stack that you would like to utilize to solve the problem at hand. You have two options: 
 you can either opt for the tool stack recommended here or choose your own preferred set of tools.
 
-Recommended Tools
+**Recommended Tools**
 
-Data analysis: SQL,Spreadsheet
+**Data analysis**: *SQL*,*Spreadsheet*
 
-Data Visualization:  Spreadsheet
+**Data Visualization**:  *Spreadsheet*
 
 You have the option to explore alternative tool stacks such as SQL, Python, and Tableau for your analysis. These tools can provide additional functionalities and enhance your reporting capabilities
 These work files will serve as valuable references to explore the various tables and data fields, facilitating further investigation.
