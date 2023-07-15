@@ -17,3 +17,7 @@ You can examine the daily sales volume data since the launch of Sprint Scooters.
 
 
 Sales volume refers here to the number of units of scooters that the company sells during a specific reporting period
+
+### Key expectations from you
+
+The sales & Operations-Head wants to understand the sales volume growth over the first two-three weeks. As one of the best data analysts of Zoom Electric, you've been assigned to analyze the reasons for dropping the sales volume of sprint scooters.
