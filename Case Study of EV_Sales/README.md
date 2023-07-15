@@ -9,6 +9,7 @@ Zoom Electric offers a range of automotive and scooter products, including FioNe
 Recently, ZE introduced a new scooter model called Sprint in the electric two-wheeler segment. Initially, the sales numbers for Sprint Scooters were quite impressive during the first two weeks of its launch. However, unexpectedly, there was a sudden decline in sales thereafter.
 
 ### Deep Dive
+-----------------------------------------------------------------
 The sales performance of Sprint Scooters exhibited an impressive start during the first two weeks of its launch. However, unexpectedly, there was a sudden decrease in sales by 20%.
 
 You can examine the daily sales volume data since the launch of Sprint Scooters. The sales volume showed promise during the initial week of release, up until October 17. However, it began to decline steadily thereafter.
@@ -19,11 +20,12 @@ You can examine the daily sales volume data since the launch of Sprint Scooters.
 Sales volume refers here to the number of units of scooters that the company sells during a specific reporting period
 
 ### Key expectations from you
-
+--------------------------------------------------------------------
 The sales & Operations-Head wants to understand the sales volume growth over the first two-three weeks. As one of the best data analysts of Zoom Electric, you've been assigned to analyze the reasons for dropping the sales volume of sprint scooters.
 
 
 ## Dataset for Experience
+
 With the intention of comprehending the decline in sales volume of Sprint Scooters, an analysis is carried out by downloading the work files and data dictionary provided via the links below,
 
 These work files will serve as valuable references to explore the various tables and data fields, facilitating further investigation.
