@@ -45,10 +45,10 @@ This repository contains SQL queries and analysis performed on the Zomato datase
 ## Dataset
 The dataset used for analysis consists of the following tables:
 
-- `products`: Contains information about the products available on Zomato, including the product ID and price.
+- `products`: Contains information about the products available on Zomato, including the product ID , product Name, and price.
 - `sales`: Stores details about customer orders, including the user ID, product ID, and order date.
 - `users`: Provides information about the users, such as their ID, name, and contact details.
-- `goldusers_signup`: Contains data about the users who have signed up for the gold membership, including the user ID, signup date, and membership status.
+- `goldusers_signup`: Contains data about the users who have signed up for the gold membership, including the user ID, signup date.
 
 Please refer to the actual database for more detailed information about the table structures and additional columns.
 
