@@ -58,7 +58,7 @@ To run the SQL queries and perform the analysis, you need access to a PostgreSQL
 Feel free to modify the queries or adapt them to other SQL database systems as needed.
 
 ## License
-The code and analysis provided in this repository are available under the [MIT License](LICENSE).
+The code and analysis provided in this repository are available under the [GPL-3.0 license](https://github.com/SaibalPatraDS/Case-Studies/blob/main/LICENSE).
 
 ## Acknowledgments
 The Zomato dataset used in this analysis is a fictional dataset created for educational purposes. The queries and analysis in this repository were performed solely for demonstration and learning purposes.
