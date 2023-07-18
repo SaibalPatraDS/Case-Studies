@@ -55,26 +55,5 @@ INSERT INTO zomato.products(PRODUCT_ID,product_name,price) VALUES
 (2,'p2',870),
 (3,'p3',330);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-									
+								
 									
