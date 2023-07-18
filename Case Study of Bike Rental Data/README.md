@@ -1,7 +1,7 @@
 ## BIKE RENTAL DATA ANALYSIS CASE STUDY
 
 |Bike Sharing Dataset|
-|------------------------------------------|
+|-------------------------------------------|
 
 
 ### 
