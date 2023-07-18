@@ -42,13 +42,42 @@ This repository contains SQL queries and analysis performed on the Zomato datase
    - Ranks the products based on the order date (in descending order) for each user.
    - Returns the user ID and the name of the last product purchased by each customer before becoming a member.
 
+8. **Total Orders and Amount Spent for Each Member Before They Become a Member**
+   - Selects only gold users.
+   - Joins the `sales` and `goldusers_signup` tables on the `user_id` column, considering only transactions where the order date is before the signup date.
+   - Counts the total number of products and calculates the total amount spent for each user.
+   - Returns the user ID, the total number of products, and the total amount spent.
+
+9. **Points Collected by Each Customer and Most Points Given for a Product**
+   - Calculates the total points collected by each customer based on the purchase amount and the conversion rate for each product.
+   - Ranks the products based on the total points collected for each user.
+   - Returns the user ID, the product ID, the total collected points, and the total points for each user.
+
+10. **Zomato Points Earned in the First Year After Joining the Gold Program**
+    - Merges the `goldusers_signup` and `sales` tables on the `user_id` column.
+    - Filters the purchases that occurred within one year of joining the gold program.
+    - Joins the resulting table with the `products` table on the `product_id` column.
+    - Calculates the total zomato points earned based on the purchase amount and the conversion rate.
+    - Determines which user earned more zomato points and the total zomato points earned in the first year.
+
+11. **Ranking of All Transactions for Each Customer**
+    - Uses the rank function to rank all transactions for each customer.
+    - Retrieves the user ID, product name, purchase date, and the rank of each transaction.
+
+12. **Ranking of Transactions for Each Member During Gold Membership**
+    - Selects all transactions made by customers.
+    - Ranks only the transactions where the order date is after the signup date as "G" (gold member) and transactions where the order date is before the signup date as "NG" (non-gold member). Non-gold member transactions are marked as "na".
+    - Merges the `goldusers_signup`, `users`, and `sales` tables on the `user_id` column.
+    - Ranks the transactions based on the order date using CASE WHEN statements.
+    - Returns the user ID, transaction date, transaction category, and the rank of each transaction.
+
 ## Dataset
 The dataset used for analysis consists of the following tables:
 
-- `products`: Contains information about the products available on Zomato, including the product ID , product Name, and price.
+- `products`: Contains information about the products available on Zomato, including the product ID, name, and price.
 - `sales`: Stores details about customer orders, including the user ID, product ID, and order date.
-- `users`: Provides information about the users, such as their ID, and signup date.
-- `goldusers_signup`: Contains data about the users who have signed up for the gold membership, including the user ID, signup date.
+- `users`: Provides information about the users, such as their ID and other details.
+- `goldusers_signup`: Contains data about the users who have signed up for the gold membership, including the user ID, signup date, and membership status.
 
 Please refer to the actual database for more detailed information about the table structures and additional columns.
 
