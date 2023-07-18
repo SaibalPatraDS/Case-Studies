@@ -86,6 +86,9 @@ To run the SQL queries and perform the analysis, you need access to a PostgreSQL
 
 Feel free to modify the queries or adapt them to other SQL database systems as needed.
 
+## Blog Post 
+If you want to read the detailed blog on this case study, you can read here [medium](https://saibalpatra.medium.com/analyzing-customer-behavior-and-preferences-on-zomato-c8360c3d34bc)
+
 ## License
 The code and analysis provided in this repository are available under the [GPL-3.0 license](https://github.com/SaibalPatraDS/Case-Studies/blob/main/LICENSE).
 
