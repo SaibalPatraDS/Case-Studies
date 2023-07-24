@@ -78,22 +78,3 @@ This README provides a brief explanation of each query, making it easier for oth
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
