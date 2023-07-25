@@ -139,7 +139,9 @@ ORDER BY ratio_of_price_to_reviews DESC
 LIMIT 1;
 ```
 
-Feel free to use these SQL queries to analyze the Airbnb NYC dataset. Each query is accompanied by its description, making it easier for others to understand the purpose of each query and how to use them in their analyses. Happy querying!
+Feel free to use these SQL queries to analyze the Airbnb NYC dataset. 
+Each query is accompanied by its description, making it easier for others to understand the purpose of each query and how to use them in their analyses. 
+Happy querying! 😉👍
 
 
 
